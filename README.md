@@ -9,7 +9,7 @@ A structured collection of Machine Learning algorithms and implementations.
 
 ### Regression
 
-- [ ] Linear Regression
+- [X] Linear Regression
 - [ ] Multiple Linear Regression
 - [ ] Polynomial Regression
 - [ ] Ridge Regression
@@ -51,7 +51,7 @@ A structured collection of Machine Learning algorithms and implementations.
 
 ### Dimensionality Reduction
 
-- [ ] Principal Component Analysis (PCA)
+- [X] Principal Component Analysis (PCA)
 
 ### Other Important Algorithms / Techniques
 
